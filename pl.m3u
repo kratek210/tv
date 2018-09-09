@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/kratek210/tv/master/PL_guide.xml"
 #EXTINF:-1 tvg-id="13 Ulica" tvg-name="PL: 13 Ulica FHD" tvg-logo="http://190.2.139.105/picon/PL13UlicaFHD.png" group-title="Poland",PL: 13 Ulica FHD
 
 http://portals.enjoy-iptv.com:8080/live/VMeBDFRaiz/EQbgF4Amdr/25678.ts
